@@ -1,6 +1,6 @@
 <template>
   <div>
-    <input type="text" v-model="test" placeholder=".shop주소 도메인명을 쓰시오!!!!">
+    <input type="text" v-model="test" placeholder=".shop주소 도메인명을 쓰시오!!">
     <button v-on:click="move">이동</button>
   </div>
 </template>
